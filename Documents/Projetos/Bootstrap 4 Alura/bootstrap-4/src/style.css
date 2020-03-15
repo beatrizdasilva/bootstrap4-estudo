@@ -1,13 +1,22 @@
-.imagem-carrossel{
+.imagem-carrossel {
     object-fit: cover;
     object-position: 0 80%;
     height: 400px;
 }
 
-.fonte-titulo{
+.fonte-titulo {
     font-family: 'Pacifico', cursive;
 }
 
-.cor-especial{
+.cor-especial {
     color: #8b0000;
+}
+
+.botao-cor-especial {
+    background-color: #8b0000;
+    color: #ffffff;
+}
+
+.borda-cor-especial {
+    border-color: #8b0000;
 }
